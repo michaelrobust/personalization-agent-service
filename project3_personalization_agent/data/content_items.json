@@ -1,0 +1,4218 @@
+[
+  {
+    "item_id": "item_0000",
+    "title": "How leading teams approach audience segmentation",
+    "body": "If your team is rethinking this, you're not alone. Topics like audience-segmentation, rcs-messaging drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "audience-segmentation",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0001",
+    "title": "The state of creative testing: a primer",
+    "body": "If your team is rethinking this, you're not alone. In the awareness stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0002",
+    "title": "Migration guide: switching to AI-augmented creative testing",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "post-purchase-flows",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0003",
+    "title": "Three things teams misread about rcs messaging",
+    "body": "There is a quiet disagreement underneath this question. Topics like rcs-messaging, ai-personalization drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "rcs-messaging",
+      "ai-personalization",
+      "first-party-data"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0004",
+    "title": "Compare: traditional vs agent-driven mobile commerce",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce",
+      "lifecycle-automation",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0005",
+    "title": "Onboarding playbook for post purchase flows",
+    "body": "Most teams start in one place and end up somewhere else. Topics like post-purchase-flows, lifecycle-automation drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0006",
+    "title": "Power-user tips for rcs messaging",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like rcs-messaging, first-party-data drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "first-party-data",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0007",
+    "title": "Migration guide: switching to AI-augmented attribution",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "creative-testing",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0008",
+    "title": "How leading teams approach mobile commerce",
+    "body": "The fastest-moving teams handle this differently. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "mobile-commerce",
+      "creative-testing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0009",
+    "title": "Pricing and rollout for our consent and privacy platform",
+    "body": "The fastest-moving teams handle this differently. In the decision stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy",
+      "creative-testing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0010",
+    "title": "Why email deliverability is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. In the awareness stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0011",
+    "title": "Why first party data is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "first-party-data",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0012",
+    "title": "Power-user tips for mobile commerce",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "mobile-commerce",
+      "first-party-data",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0013",
+    "title": "How leading teams approach audience segmentation",
+    "body": "Most teams start in one place and end up somewhere else. Topics like audience-segmentation, post-purchase-flows drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "audience-segmentation",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0014",
+    "title": "Power-user tips for loyalty programs",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "rcs-messaging",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0015",
+    "title": "The state of consent and privacy: a primer",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0016",
+    "title": "Onboarding playbook for audience segmentation",
+    "body": "Most teams start in one place and end up somewhere else. Topics like audience-segmentation drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "audience-segmentation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0017",
+    "title": "Onboarding playbook for audience segmentation",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0018",
+    "title": "Why consent and privacy is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy",
+      "first-party-data",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0019",
+    "title": "Compare: traditional vs agent-driven first party data",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "first-party-data",
+      "sms-marketing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0020",
+    "title": "How leading teams approach sms marketing",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "sms-marketing",
+      "creative-testing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0021",
+    "title": "Compare: traditional vs agent-driven email deliverability",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0022",
+    "title": "Three things teams misread about ai personalization",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0023",
+    "title": "Onboarding playbook for ai personalization",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0024",
+    "title": "Book a demo focused on post purchase flows",
+    "body": "Across hundreds of programs, the same patterns surface. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows",
+      "winback-campaigns",
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0025",
+    "title": "Compare: traditional vs agent-driven ai personalization",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "ai-personalization",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0026",
+    "title": "How leading teams approach consent and privacy",
+    "body": "The fastest-moving teams handle this differently. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "consent-and-privacy",
+      "mobile-commerce",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0027",
+    "title": "The state of lifecycle automation: a primer",
+    "body": "The fastest-moving teams handle this differently. In the awareness stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0028",
+    "title": "A walkthrough of modern sms marketing stacks",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing",
+      "mobile-commerce",
+      "first-party-data"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0029",
+    "title": "Three things teams misread about winback campaigns",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "winback-campaigns",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0030",
+    "title": "Onboarding playbook for consent and privacy",
+    "body": "Most teams start in one place and end up somewhere else. Topics like consent-and-privacy, sms-marketing drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "consent-and-privacy",
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0031",
+    "title": "Migration guide: switching to AI-augmented subscription retention",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "subscription-retention",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0032",
+    "title": "Three things teams misread about creative testing",
+    "body": "If your team is rethinking this, you're not alone. In the awareness stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0033",
+    "title": "Power-user tips for post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "post-purchase-flows",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0034",
+    "title": "Three things teams misread about post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "post-purchase-flows",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0035",
+    "title": "Why consent and privacy is changing in 2026",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy",
+      "creative-testing",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0036",
+    "title": "Migration guide: switching to AI-augmented post purchase flows",
+    "body": "Across hundreds of programs, the same patterns surface. In the decision stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "post-purchase-flows",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0037",
+    "title": "Onboarding playbook for mobile commerce",
+    "body": "If your team is rethinking this, you're not alone. Topics like mobile-commerce drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0038",
+    "title": "Renewal-ready: optimizing your loyalty programs program",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0039",
+    "title": "Migration guide: switching to AI-augmented sms marketing",
+    "body": "If your team is rethinking this, you're not alone. In the decision stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "sms-marketing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0040",
+    "title": "A walkthrough of modern post purchase flows stacks",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0041",
+    "title": "How leading teams approach creative testing",
+    "body": "If your team is rethinking this, you're not alone. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "first-party-data"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0042",
+    "title": "Compare: traditional vs agent-driven lifecycle automation",
+    "body": "There is a quiet disagreement underneath this question. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "attribution"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0043",
+    "title": "How leading teams approach lifecycle automation",
+    "body": "There is a quiet disagreement underneath this question. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "creative-testing",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0044",
+    "title": "Renewal-ready: optimizing your winback campaigns program",
+    "body": "The fastest-moving teams handle this differently. Topics like winback-campaigns, sms-marketing drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0045",
+    "title": "Power-user tips for lifecycle automation",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0046",
+    "title": "How leading teams approach lifecycle automation",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0047",
+    "title": "Compare: traditional vs agent-driven post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows",
+      "mobile-commerce",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0048",
+    "title": "Compare: traditional vs agent-driven mobile commerce",
+    "body": "There is a quiet disagreement underneath this question. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0049",
+    "title": "The state of first party data: a primer",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "first-party-data",
+      "attribution"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0050",
+    "title": "Compare: traditional vs agent-driven sms marketing",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "sms-marketing",
+      "attribution",
+      "ai-personalization"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0051",
+    "title": "Renewal-ready: optimizing your post purchase flows program",
+    "body": "There is a quiet disagreement underneath this question. Topics like post-purchase-flows drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0052",
+    "title": "The state of creative testing: a primer",
+    "body": "The fastest-moving teams handle this differently. Topics like creative-testing drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0053",
+    "title": "Onboarding playbook for winback campaigns",
+    "body": "There is a quiet disagreement underneath this question. Topics like winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0054",
+    "title": "Onboarding playbook for sms marketing",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0055",
+    "title": "Renewal-ready: optimizing your creative testing program",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like creative-testing, attribution drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "attribution"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0056",
+    "title": "Onboarding playbook for lifecycle automation",
+    "body": "The fastest-moving teams handle this differently. Topics like lifecycle-automation, creative-testing drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "creative-testing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0057",
+    "title": "Three things teams misread about attribution",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "attribution",
+      "email-deliverability",
+      "subscription-retention"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0058",
+    "title": "Migration guide: switching to AI-augmented creative testing",
+    "body": "If your team is rethinking this, you're not alone. Topics like creative-testing, winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "creative-testing",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0059",
+    "title": "Power-user tips for mobile commerce",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0060",
+    "title": "The state of attribution: a primer",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "first-party-data",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0061",
+    "title": "Why consent and privacy is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. In the awareness stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "consent-and-privacy",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0062",
+    "title": "Why email deliverability is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0063",
+    "title": "Compare: traditional vs agent-driven consent and privacy",
+    "body": "The fastest-moving teams handle this differently. In the consideration stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0064",
+    "title": "Onboarding playbook for email deliverability",
+    "body": "Most teams start in one place and end up somewhere else. Topics like email-deliverability, post-purchase-flows drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0065",
+    "title": "Book a demo focused on email deliverability",
+    "body": "If your team is rethinking this, you're not alone. In the decision stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0066",
+    "title": "Migration guide: switching to AI-augmented sms marketing",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "sms-marketing",
+      "email-deliverability"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0067",
+    "title": "The state of consent and privacy: a primer",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like consent-and-privacy, audience-segmentation drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy",
+      "audience-segmentation",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0068",
+    "title": "Migration guide: switching to AI-augmented attribution",
+    "body": "There is a quiet disagreement underneath this question. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0069",
+    "title": "Pricing and rollout for our lifecycle automation platform",
+    "body": "Across hundreds of programs, the same patterns surface. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0070",
+    "title": "Compare: traditional vs agent-driven sms marketing",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "sms-marketing",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0071",
+    "title": "A walkthrough of modern creative testing stacks",
+    "body": "If your team is rethinking this, you're not alone. Topics like creative-testing drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0072",
+    "title": "Pricing and rollout for our subscription retention platform",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "subscription-retention",
+      "post-purchase-flows",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0073",
+    "title": "Why email deliverability is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. Topics like email-deliverability, winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "winback-campaigns",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0074",
+    "title": "Pricing and rollout for our rcs messaging platform",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "rcs-messaging"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0075",
+    "title": "Renewal-ready: optimizing your creative testing program",
+    "body": "There is a quiet disagreement underneath this question. Topics like creative-testing, post-purchase-flows drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "post-purchase-flows",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0076",
+    "title": "Onboarding playbook for attribution",
+    "body": "Most teams start in one place and end up somewhere else. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "attribution",
+      "creative-testing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0077",
+    "title": "Renewal-ready: optimizing your post purchase flows program",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "post-purchase-flows",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0078",
+    "title": "Power-user tips for rcs messaging",
+    "body": "The fastest-moving teams handle this differently. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0079",
+    "title": "Book a demo focused on creative testing",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "winback-campaigns",
+      "sms-marketing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0080",
+    "title": "Pricing and rollout for our subscription retention platform",
+    "body": "If your team is rethinking this, you're not alone. Topics like subscription-retention, first-party-data drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "subscription-retention",
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0081",
+    "title": "Pricing and rollout for our subscription retention platform",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0082",
+    "title": "Why ai personalization is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "ai-personalization",
+      "post-purchase-flows",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0083",
+    "title": "Onboarding playbook for loyalty programs",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "lifecycle-automation",
+      "first-party-data"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0084",
+    "title": "Power-user tips for post purchase flows",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0085",
+    "title": "Onboarding playbook for first party data",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "first-party-data",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0086",
+    "title": "Compare: traditional vs agent-driven winback campaigns",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "attribution"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0087",
+    "title": "Why ai personalization is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0088",
+    "title": "Three things teams misread about consent and privacy",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy",
+      "loyalty-programs",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0089",
+    "title": "Onboarding playbook for consent and privacy",
+    "body": "Most teams start in one place and end up somewhere else. Topics like consent-and-privacy drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0090",
+    "title": "Power-user tips for mobile commerce",
+    "body": "There is a quiet disagreement underneath this question. Topics like mobile-commerce drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0091",
+    "title": "How leading teams approach email deliverability",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0092",
+    "title": "Book a demo focused on creative testing",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "creative-testing",
+      "winback-campaigns",
+      "email-deliverability"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0093",
+    "title": "Why lifecycle automation is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0094",
+    "title": "Power-user tips for ai personalization",
+    "body": "The fastest-moving teams handle this differently. Topics like ai-personalization, rcs-messaging drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0095",
+    "title": "A walkthrough of modern email deliverability stacks",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0096",
+    "title": "The state of sms marketing: a primer",
+    "body": "There is a quiet disagreement underneath this question. In the awareness stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "sms-marketing",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0097",
+    "title": "The state of audience segmentation: a primer",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0098",
+    "title": "Onboarding playbook for ai personalization",
+    "body": "There is a quiet disagreement underneath this question. Topics like ai-personalization, post-purchase-flows drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "ai-personalization",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0099",
+    "title": "How leading teams approach subscription retention",
+    "body": "Most teams start in one place and end up somewhere else. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0100",
+    "title": "Pricing and rollout for our mobile commerce platform",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0101",
+    "title": "The state of lifecycle automation: a primer",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation",
+      "audience-segmentation",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0102",
+    "title": "The state of sms marketing: a primer",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0103",
+    "title": "Why creative testing is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. Topics like creative-testing, first-party-data drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing",
+      "first-party-data"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0104",
+    "title": "Pricing and rollout for our rcs messaging platform",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "rcs-messaging",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0105",
+    "title": "Power-user tips for rcs messaging",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0106",
+    "title": "Book a demo focused on post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "post-purchase-flows",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0107",
+    "title": "Onboarding playbook for consent and privacy",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0108",
+    "title": "Three things teams misread about subscription retention",
+    "body": "Most teams start in one place and end up somewhere else. In the awareness stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "subscription-retention",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0109",
+    "title": "Why ai personalization is changing in 2026",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "ai-personalization",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0110",
+    "title": "Renewal-ready: optimizing your subscription retention program",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0111",
+    "title": "Onboarding playbook for ai personalization",
+    "body": "Most teams start in one place and end up somewhere else. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "ai-personalization",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0112",
+    "title": "Three things teams misread about loyalty programs",
+    "body": "The fastest-moving teams handle this differently. In the awareness stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "loyalty-programs",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0113",
+    "title": "How leading teams approach email deliverability",
+    "body": "Most teams start in one place and end up somewhere else. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0114",
+    "title": "Book a demo focused on ai personalization",
+    "body": "Most teams start in one place and end up somewhere else. Topics like ai-personalization, consent-and-privacy drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "ai-personalization",
+      "consent-and-privacy",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0115",
+    "title": "Three things teams misread about consent and privacy",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0116",
+    "title": "Renewal-ready: optimizing your ai personalization program",
+    "body": "The fastest-moving teams handle this differently. Topics like ai-personalization, rcs-messaging drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0117",
+    "title": "Three things teams misread about winback campaigns",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops",
+      "lifecycle_marketer",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0118",
+    "title": "The state of creative testing: a primer",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0119",
+    "title": "The state of attribution: a primer",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0120",
+    "title": "A walkthrough of modern ai personalization stacks",
+    "body": "The fastest-moving teams handle this differently. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "ai-personalization"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0121",
+    "title": "Compare: traditional vs agent-driven consent and privacy",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0122",
+    "title": "Power-user tips for post purchase flows",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows",
+      "consent-and-privacy",
+      "creative-testing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0123",
+    "title": "The state of mobile commerce: a primer",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "mobile-commerce",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0124",
+    "title": "Power-user tips for attribution",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0125",
+    "title": "How leading teams approach sms marketing",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0126",
+    "title": "How leading teams approach winback campaigns",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "winback-campaigns",
+      "mobile-commerce",
+      "creative-testing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0127",
+    "title": "Compare: traditional vs agent-driven lifecycle automation",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0128",
+    "title": "Migration guide: switching to AI-augmented attribution",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "sms-marketing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0129",
+    "title": "Migration guide: switching to AI-augmented consent and privacy",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0130",
+    "title": "A walkthrough of modern rcs messaging stacks",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like rcs-messaging, consent-and-privacy drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "rcs-messaging",
+      "consent-and-privacy",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0131",
+    "title": "How leading teams approach creative testing",
+    "body": "If your team is rethinking this, you're not alone. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0132",
+    "title": "Power-user tips for rcs messaging",
+    "body": "There is a quiet disagreement underneath this question. Topics like rcs-messaging, ai-personalization drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "rcs-messaging",
+      "ai-personalization",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0133",
+    "title": "Three things teams misread about subscription retention",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0134",
+    "title": "Power-user tips for loyalty programs",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like loyalty-programs, first-party-data drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "first-party-data"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0135",
+    "title": "Pricing and rollout for our loyalty programs platform",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0136",
+    "title": "Pricing and rollout for our subscription retention platform",
+    "body": "The fastest-moving teams handle this differently. In the decision stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "subscription-retention",
+      "winback-campaigns",
+      "ai-personalization"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0137",
+    "title": "Book a demo focused on subscription retention",
+    "body": "There is a quiet disagreement underneath this question. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "subscription-retention"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0138",
+    "title": "Power-user tips for ai personalization",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "mobile-commerce",
+      "attribution"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0139",
+    "title": "Why winback campaigns is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0140",
+    "title": "Compare: traditional vs agent-driven winback campaigns",
+    "body": "The fastest-moving teams handle this differently. Topics like winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0141",
+    "title": "Renewal-ready: optimizing your creative testing program",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0142",
+    "title": "The state of winback campaigns: a primer",
+    "body": "The fastest-moving teams handle this differently. Topics like winback-campaigns, audience-segmentation drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "audience-segmentation",
+      "attribution"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0143",
+    "title": "Why winback campaigns is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "creative-testing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0144",
+    "title": "Why attribution is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "attribution",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0145",
+    "title": "A walkthrough of modern creative testing stacks",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "loyalty-programs",
+      "subscription-retention"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0146",
+    "title": "Book a demo focused on audience segmentation",
+    "body": "The fastest-moving teams handle this differently. Topics like audience-segmentation, consent-and-privacy drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "audience-segmentation",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0147",
+    "title": "How leading teams approach audience segmentation",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "subscription-retention",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0148",
+    "title": "Book a demo focused on sms marketing",
+    "body": "There is a quiet disagreement underneath this question. Topics like sms-marketing, consent-and-privacy drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0149",
+    "title": "The state of rcs messaging: a primer",
+    "body": "Most teams start in one place and end up somewhere else. Topics like rcs-messaging, subscription-retention drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "subscription-retention"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0150",
+    "title": "Migration guide: switching to AI-augmented audience segmentation",
+    "body": "Across hundreds of programs, the same patterns surface. In the decision stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "audience-segmentation",
+      "ai-personalization"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0151",
+    "title": "Compare: traditional vs agent-driven email deliverability",
+    "body": "Across hundreds of programs, the same patterns surface. In the consideration stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0152",
+    "title": "The state of creative testing: a primer",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0153",
+    "title": "Power-user tips for first party data",
+    "body": "If your team is rethinking this, you're not alone. In the post_purchase stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "first-party-data",
+      "ai-personalization",
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0154",
+    "title": "Book a demo focused on post purchase flows",
+    "body": "Across hundreds of programs, the same patterns surface. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows",
+      "ai-personalization"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0155",
+    "title": "Compare: traditional vs agent-driven winback campaigns",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0156",
+    "title": "Onboarding playbook for post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0157",
+    "title": "How leading teams approach winback campaigns",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "first-party-data",
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0158",
+    "title": "Renewal-ready: optimizing your ai personalization program",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "ai-personalization",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0159",
+    "title": "Three things teams misread about lifecycle automation",
+    "body": "Most teams start in one place and end up somewhere else. Topics like lifecycle-automation, mobile-commerce drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "mobile-commerce",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0160",
+    "title": "Migration guide: switching to AI-augmented loyalty programs",
+    "body": "There is a quiet disagreement underneath this question. Topics like loyalty-programs, audience-segmentation drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0161",
+    "title": "The state of consent and privacy: a primer",
+    "body": "There is a quiet disagreement underneath this question. Topics like consent-and-privacy, attribution drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy",
+      "attribution",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0162",
+    "title": "How leading teams approach subscription retention",
+    "body": "There is a quiet disagreement underneath this question. Topics like subscription-retention, loyalty-programs drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "subscription-retention",
+      "loyalty-programs",
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0163",
+    "title": "How leading teams approach ai personalization",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "attribution"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0164",
+    "title": "Why audience segmentation is changing in 2026",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "audience-segmentation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0165",
+    "title": "The state of rcs messaging: a primer",
+    "body": "Most teams start in one place and end up somewhere else. In the awareness stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "ai-personalization",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0166",
+    "title": "Why attribution is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like attribution, creative-testing drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "creative-testing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0167",
+    "title": "Compare: traditional vs agent-driven lifecycle automation",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0168",
+    "title": "Power-user tips for sms marketing",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "sms-marketing",
+      "first-party-data"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0169",
+    "title": "Three things teams misread about email deliverability",
+    "body": "The fastest-moving teams handle this differently. In the awareness stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0170",
+    "title": "Power-user tips for ai personalization",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like ai-personalization, email-deliverability drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "ai-personalization",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0171",
+    "title": "How leading teams approach winback campaigns",
+    "body": "Most teams start in one place and end up somewhere else. In the consideration stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "subscription-retention"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0172",
+    "title": "The state of email deliverability: a primer",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0173",
+    "title": "Renewal-ready: optimizing your attribution program",
+    "body": "If your team is rethinking this, you're not alone. Topics like attribution, winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0174",
+    "title": "Power-user tips for email deliverability",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like email-deliverability, consent-and-privacy drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "email-deliverability",
+      "consent-and-privacy",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0175",
+    "title": "Power-user tips for attribution",
+    "body": "If your team is rethinking this, you're not alone. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "attribution",
+      "first-party-data"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0176",
+    "title": "Pricing and rollout for our subscription retention platform",
+    "body": "The fastest-moving teams handle this differently. In the decision stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "subscription-retention",
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0177",
+    "title": "Migration guide: switching to AI-augmented lifecycle automation",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "mobile-commerce",
+      "email-deliverability"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0178",
+    "title": "The state of rcs messaging: a primer",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0179",
+    "title": "Power-user tips for lifecycle automation",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation",
+      "creative-testing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0180",
+    "title": "A walkthrough of modern first party data stacks",
+    "body": "If your team is rethinking this, you're not alone. Topics like first-party-data, attribution drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "first-party-data",
+      "attribution"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0181",
+    "title": "Book a demo focused on email deliverability",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability",
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0182",
+    "title": "Compare: traditional vs agent-driven mobile commerce",
+    "body": "If your team is rethinking this, you're not alone. Topics like mobile-commerce drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0183",
+    "title": "Power-user tips for mobile commerce",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "mobile-commerce",
+      "sms-marketing",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0184",
+    "title": "Renewal-ready: optimizing your winback campaigns program",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "subscription-retention",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0185",
+    "title": "Compare: traditional vs agent-driven winback campaigns",
+    "body": "If your team is rethinking this, you're not alone. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "winback-campaigns",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0186",
+    "title": "How leading teams approach first party data",
+    "body": "If your team is rethinking this, you're not alone. Topics like first-party-data, email-deliverability drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "first-party-data",
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0187",
+    "title": "Onboarding playbook for creative testing",
+    "body": "If your team is rethinking this, you're not alone. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "creative-testing",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0188",
+    "title": "Book a demo focused on winback campaigns",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0189",
+    "title": "Onboarding playbook for lifecycle automation",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation",
+      "creative-testing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0190",
+    "title": "The state of lifecycle automation: a primer",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation",
+      "first-party-data"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0191",
+    "title": "How leading teams approach consent and privacy",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy",
+      "sms-marketing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0192",
+    "title": "Pricing and rollout for our winback campaigns platform",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "sms-marketing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0193",
+    "title": "Renewal-ready: optimizing your sms marketing program",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like sms-marketing, consent-and-privacy drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0194",
+    "title": "Renewal-ready: optimizing your consent and privacy program",
+    "body": "There is a quiet disagreement underneath this question. In the post_purchase stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "consent-and-privacy",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0195",
+    "title": "Pricing and rollout for our mobile commerce platform",
+    "body": "If your team is rethinking this, you're not alone. Topics like mobile-commerce, attribution drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0196",
+    "title": "Power-user tips for audience segmentation",
+    "body": "There is a quiet disagreement underneath this question. Topics like audience-segmentation, mobile-commerce drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "audience-segmentation",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0197",
+    "title": "The state of creative testing: a primer",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "creative-testing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0198",
+    "title": "Renewal-ready: optimizing your sms marketing program",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing",
+      "lifecycle-automation",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0199",
+    "title": "Compare: traditional vs agent-driven rcs messaging",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "rcs-messaging",
+      "audience-segmentation",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0200",
+    "title": "How leading teams approach subscription retention",
+    "body": "Across hundreds of programs, the same patterns surface. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "ai-personalization"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0201",
+    "title": "A walkthrough of modern winback campaigns stacks",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "winback-campaigns",
+      "mobile-commerce",
+      "subscription-retention"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0202",
+    "title": "Why attribution is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "mobile-commerce",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0203",
+    "title": "Power-user tips for first party data",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "first-party-data",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0204",
+    "title": "The state of rcs messaging: a primer",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0205",
+    "title": "Why mobile commerce is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like mobile-commerce, winback-campaigns drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "mobile-commerce",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0206",
+    "title": "The state of attribution: a primer",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "attribution",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0207",
+    "title": "Renewal-ready: optimizing your post purchase flows program",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "post-purchase-flows",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0208",
+    "title": "Renewal-ready: optimizing your lifecycle automation program",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0209",
+    "title": "Three things teams misread about loyalty programs",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "loyalty-programs",
+      "rcs-messaging",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0210",
+    "title": "Migration guide: switching to AI-augmented subscription retention",
+    "body": "The fastest-moving teams handle this differently. Topics like subscription-retention, consent-and-privacy drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "subscription-retention",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0211",
+    "title": "Pricing and rollout for our email deliverability platform",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability",
+      "lifecycle-automation",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director",
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0212",
+    "title": "Three things teams misread about subscription retention",
+    "body": "Across hundreds of programs, the same patterns surface. In the awareness stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "subscription-retention"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0213",
+    "title": "The state of first party data: a primer",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "first-party-data",
+      "mobile-commerce",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0214",
+    "title": "Onboarding playbook for loyalty programs",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0215",
+    "title": "How leading teams approach creative testing",
+    "body": "Across hundreds of programs, the same patterns surface. In the consideration stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "creative-testing",
+      "subscription-retention"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0216",
+    "title": "How leading teams approach rcs messaging",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like rcs-messaging, lifecycle-automation drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0217",
+    "title": "Why email deliverability is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. In the awareness stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0218",
+    "title": "Pricing and rollout for our consent and privacy platform",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0219",
+    "title": "Pricing and rollout for our ai personalization platform",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "ai-personalization",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0220",
+    "title": "How leading teams approach email deliverability",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability",
+      "creative-testing",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0221",
+    "title": "Onboarding playbook for mobile commerce",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0222",
+    "title": "Onboarding playbook for winback campaigns",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like winback-campaigns, ai-personalization drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0223",
+    "title": "Pricing and rollout for our creative testing platform",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0224",
+    "title": "Why sms marketing is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing",
+      "creative-testing",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0225",
+    "title": "Why audience segmentation is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0226",
+    "title": "Onboarding playbook for mobile commerce",
+    "body": "The fastest-moving teams handle this differently. In the post_purchase stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "mobile-commerce",
+      "consent-and-privacy",
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0227",
+    "title": "How leading teams approach email deliverability",
+    "body": "There is a quiet disagreement underneath this question. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "email-deliverability",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0228",
+    "title": "Renewal-ready: optimizing your mobile commerce program",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "mobile-commerce",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0229",
+    "title": "Renewal-ready: optimizing your subscription retention program",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "subscription-retention",
+      "audience-segmentation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0230",
+    "title": "Renewal-ready: optimizing your winback campaigns program",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0231",
+    "title": "Renewal-ready: optimizing your sms marketing program",
+    "body": "Most teams start in one place and end up somewhere else. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0232",
+    "title": "How leading teams approach first party data",
+    "body": "If your team is rethinking this, you're not alone. In the consideration stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "first-party-data",
+      "ai-personalization"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0233",
+    "title": "Book a demo focused on email deliverability",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0234",
+    "title": "Pricing and rollout for our sms marketing platform",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0235",
+    "title": "Migration guide: switching to AI-augmented winback campaigns",
+    "body": "There is a quiet disagreement underneath this question. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "winback-campaigns",
+      "email-deliverability"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0236",
+    "title": "Compare: traditional vs agent-driven attribution",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0237",
+    "title": "How leading teams approach sms marketing",
+    "body": "If your team is rethinking this, you're not alone. Topics like sms-marketing, loyalty-programs drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "sms-marketing",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0238",
+    "title": "Three things teams misread about loyalty programs",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "marketing_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0239",
+    "title": "Book a demo focused on attribution",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0240",
+    "title": "Compare: traditional vs agent-driven attribution",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "attribution"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0241",
+    "title": "Book a demo focused on consent and privacy",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "consent-and-privacy",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0242",
+    "title": "Migration guide: switching to AI-augmented winback campaigns",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0243",
+    "title": "Why subscription retention is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "subscription-retention",
+      "sms-marketing"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0244",
+    "title": "Pricing and rollout for our rcs messaging platform",
+    "body": "The fastest-moving teams handle this differently. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "rcs-messaging",
+      "loyalty-programs",
+      "creative-testing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0245",
+    "title": "Why sms marketing is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "sms-marketing",
+      "ai-personalization"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0246",
+    "title": "Power-user tips for consent and privacy",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "consent-and-privacy"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0247",
+    "title": "Onboarding playbook for creative testing",
+    "body": "There is a quiet disagreement underneath this question. Topics like creative-testing, winback-campaigns drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "winback-campaigns",
+      "attribution"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0248",
+    "title": "A walkthrough of modern post purchase flows stacks",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "post-purchase-flows",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0249",
+    "title": "Power-user tips for post purchase flows",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0250",
+    "title": "Onboarding playbook for post purchase flows",
+    "body": "There is a quiet disagreement underneath this question. Topics like post-purchase-flows drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0251",
+    "title": "Why email deliverability is changing in 2026",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0252",
+    "title": "Three things teams misread about lifecycle automation",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation",
+      "mobile-commerce"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0253",
+    "title": "Onboarding playbook for creative testing",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "creative-testing",
+      "first-party-data",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0254",
+    "title": "Renewal-ready: optimizing your lifecycle automation program",
+    "body": "If your team is rethinking this, you're not alone. In the post_purchase stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0255",
+    "title": "Pricing and rollout for our ai personalization platform",
+    "body": "There is a quiet disagreement underneath this question. In the decision stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "ai-personalization"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0256",
+    "title": "Power-user tips for email deliverability",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "subscription-retention"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0257",
+    "title": "Renewal-ready: optimizing your mobile commerce program",
+    "body": "Most teams start in one place and end up somewhere else. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "mobile-commerce"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0258",
+    "title": "Book a demo focused on attribution",
+    "body": "The fastest-moving teams handle this differently. Topics like attribution drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0259",
+    "title": "Three things teams misread about sms marketing",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "rev_ops",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0260",
+    "title": "Renewal-ready: optimizing your audience segmentation program",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0261",
+    "title": "How leading teams approach loyalty programs",
+    "body": "Most teams start in one place and end up somewhere else. In the consideration stage, audiences expect very different signals. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "creative-testing"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0262",
+    "title": "The state of post purchase flows: a primer",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0263",
+    "title": "Why first party data is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. Topics like first-party-data, post-purchase-flows drive most of the variance. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "first-party-data",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0264",
+    "title": "Onboarding playbook for ai personalization",
+    "body": "There is a quiet disagreement underneath this question. Topics like ai-personalization, creative-testing drive most of the variance. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "ai-personalization",
+      "creative-testing",
+      "first-party-data"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0265",
+    "title": "Book a demo focused on subscription retention",
+    "body": "There is a quiet disagreement underneath this question. In the decision stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "subscription-retention",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0266",
+    "title": "Power-user tips for email deliverability",
+    "body": "Across hundreds of programs, the same patterns surface. Topics like email-deliverability drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0267",
+    "title": "Why winback campaigns is changing in 2026",
+    "body": "There is a quiet disagreement underneath this question. Topics like winback-campaigns, loyalty-programs drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "winback-campaigns",
+      "loyalty-programs",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "marketing_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0268",
+    "title": "Book a demo focused on winback campaigns",
+    "body": "Most teams start in one place and end up somewhere else. In the decision stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "winback-campaigns",
+      "creative-testing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner",
+      "ecommerce_director",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0269",
+    "title": "A walkthrough of modern email deliverability stacks",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "agency_partner",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0270",
+    "title": "Pricing and rollout for our loyalty programs platform",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "loyalty-programs",
+      "creative-testing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "rev_ops",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0271",
+    "title": "Power-user tips for subscription retention",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "subscription-retention",
+      "sms-marketing"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0272",
+    "title": "Onboarding playbook for loyalty programs",
+    "body": "Most teams start in one place and end up somewhere else. Topics like loyalty-programs drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0273",
+    "title": "The state of post purchase flows: a primer",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "post-purchase-flows",
+      "email-deliverability"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0274",
+    "title": "Book a demo focused on post purchase flows",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "post-purchase-flows",
+      "email-deliverability"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner",
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0275",
+    "title": "A walkthrough of modern lifecycle automation stacks",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0276",
+    "title": "Book a demo focused on ai personalization",
+    "body": "The fastest-moving teams handle this differently. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "ai-personalization",
+      "loyalty-programs",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0277",
+    "title": "How leading teams approach sms marketing",
+    "body": "There is a quiet disagreement underneath this question. Topics like sms-marketing, winback-campaigns drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "sms-marketing",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0278",
+    "title": "Onboarding playbook for creative testing",
+    "body": "Most teams start in one place and end up somewhere else. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "loyalty-programs",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0279",
+    "title": "Renewal-ready: optimizing your subscription retention program",
+    "body": "There is a quiet disagreement underneath this question. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "subscription-retention",
+      "ai-personalization"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "marketing_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0280",
+    "title": "Why post purchase flows is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "post-purchase-flows",
+      "ai-personalization",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0281",
+    "title": "Why post purchase flows is changing in 2026",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0282",
+    "title": "Book a demo focused on email deliverability",
+    "body": "If your team is rethinking this, you're not alone. In the decision stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "email-deliverability",
+      "post-purchase-flows",
+      "winback-campaigns"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0283",
+    "title": "How leading teams approach loyalty programs",
+    "body": "The fastest-moving teams handle this differently. In the consideration stage, audiences expect very different signals. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "loyalty-programs",
+      "email-deliverability"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0284",
+    "title": "Pricing and rollout for our first party data platform",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "growth_lead",
+      "ecommerce_director",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0285",
+    "title": "Migration guide: switching to AI-augmented first party data",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "first-party-data"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "agency_partner",
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0286",
+    "title": "Migration guide: switching to AI-augmented creative testing",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "creative-testing"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0287",
+    "title": "Power-user tips for audience segmentation",
+    "body": "Across hundreds of programs, the same patterns surface. In the post_purchase stage, audiences expect very different signals. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "audience-segmentation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0288",
+    "title": "A walkthrough of modern winback campaigns stacks",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "winback-campaigns",
+      "ai-personalization"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0289",
+    "title": "Pricing and rollout for our creative testing platform",
+    "body": "If your team is rethinking this, you're not alone. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "creative-testing",
+      "winback-campaigns",
+      "attribution"
+    ],
+    "funnel_stage": "decision",
+    "persona_fit": [
+      "marketing_ops",
+      "growth_lead",
+      "lifecycle_marketer"
+    ]
+  },
+  {
+    "item_id": "item_0290",
+    "title": "Onboarding playbook for first party data",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "first-party-data",
+      "consent-and-privacy",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "rev_ops",
+      "agency_partner",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0291",
+    "title": "How leading teams approach lifecycle automation",
+    "body": "Across hundreds of programs, the same patterns surface. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0292",
+    "title": "A walkthrough of modern ai personalization stacks",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "ai-personalization",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "ecommerce_director",
+      "rev_ops",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0293",
+    "title": "Renewal-ready: optimizing your sms marketing program",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. We unpack the trade-offs and the reasoning behind each choice.",
+    "topics": [
+      "sms-marketing",
+      "lifecycle-automation"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "growth_lead"
+    ]
+  },
+  {
+    "item_id": "item_0294",
+    "title": "Onboarding playbook for winback campaigns",
+    "body": "Most teams start in one place and end up somewhere else. In the post_purchase stage, audiences expect very different signals. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "winback-campaigns",
+      "rcs-messaging"
+    ],
+    "funnel_stage": "post_purchase",
+    "persona_fit": [
+      "growth_lead",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0295",
+    "title": "Why attribution is changing in 2026",
+    "body": "Most teams start in one place and end up somewhere else. Calibration matters more than novelty here. Inside: a checklist your team can adapt this quarter.",
+    "topics": [
+      "attribution"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "ecommerce_director"
+    ]
+  },
+  {
+    "item_id": "item_0296",
+    "title": "Three things teams misread about consent and privacy",
+    "body": "The fastest-moving teams handle this differently. Topics like consent-and-privacy, post-purchase-flows drive most of the variance. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "consent-and-privacy",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "agency_partner"
+    ]
+  },
+  {
+    "item_id": "item_0297",
+    "title": "How leading teams approach audience segmentation",
+    "body": "There is a quiet disagreement underneath this question. Topics like audience-segmentation, attribution drive most of the variance. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "attribution",
+      "loyalty-programs"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "lifecycle_marketer",
+      "rev_ops"
+    ]
+  },
+  {
+    "item_id": "item_0298",
+    "title": "Three things teams misread about audience segmentation",
+    "body": "If your team is rethinking this, you're not alone. What looks like a tactic question is usually a system question. We share what worked, what stalled, and what we'd do differently.",
+    "topics": [
+      "audience-segmentation",
+      "attribution",
+      "post-purchase-flows"
+    ],
+    "funnel_stage": "awareness",
+    "persona_fit": [
+      "marketing_ops"
+    ]
+  },
+  {
+    "item_id": "item_0299",
+    "title": "Compare: traditional vs agent-driven mobile commerce",
+    "body": "Across hundreds of programs, the same patterns surface. What looks like a tactic question is usually a system question. This piece walks through the framework and the data behind it.",
+    "topics": [
+      "mobile-commerce",
+      "creative-testing",
+      "first-party-data"
+    ],
+    "funnel_stage": "consideration",
+    "persona_fit": [
+      "growth_lead",
+      "marketing_ops"
+    ]
+  }
+]

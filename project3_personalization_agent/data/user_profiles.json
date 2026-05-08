@@ -1,0 +1,1058 @@
+[
+  {
+    "user_id": "user_000",
+    "recent_topics": [
+      "attribution",
+      "mobile-commerce"
+    ],
+    "target_stage": "awareness",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0057",
+      "item_0060",
+      "item_0101",
+      "item_0123",
+      "item_0144",
+      "item_0159",
+      "item_0161",
+      "item_0202",
+      "item_0206",
+      "item_0213",
+      "item_0225"
+    ]
+  },
+  {
+    "user_id": "user_001",
+    "recent_topics": [
+      "post-purchase-flows",
+      "ai-personalization",
+      "mobile-commerce"
+    ],
+    "target_stage": "decision",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0072",
+      "item_0114",
+      "item_0136",
+      "item_0177",
+      "item_0211",
+      "item_0274",
+      "item_0276",
+      "item_0282"
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "recent_topics": [
+      "consent-and-privacy",
+      "audience-segmentation",
+      "email-deliverability"
+    ],
+    "target_stage": "decision",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0065",
+      "item_0066",
+      "item_0081",
+      "item_0129",
+      "item_0211"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "recent_topics": [
+      "audience-segmentation",
+      "subscription-retention",
+      "email-deliverability"
+    ],
+    "target_stage": "decision",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0031",
+      "item_0065",
+      "item_0072",
+      "item_0080",
+      "item_0137",
+      "item_0160",
+      "item_0176",
+      "item_0177",
+      "item_0181",
+      "item_0210"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "recent_topics": [
+      "consent-and-privacy",
+      "first-party-data"
+    ],
+    "target_stage": "consideration",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0019",
+      "item_0063",
+      "item_0157",
+      "item_0191"
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "recent_topics": [
+      "email-deliverability",
+      "mobile-commerce",
+      "winback-campaigns"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0006",
+      "item_0012",
+      "item_0044",
+      "item_0053",
+      "item_0110",
+      "item_0173",
+      "item_0174",
+      "item_0183",
+      "item_0184",
+      "item_0256",
+      "item_0257",
+      "item_0294"
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "recent_topics": [
+      "attribution",
+      "email-deliverability"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0076",
+      "item_0138",
+      "item_0170",
+      "item_0175",
+      "item_0214",
+      "item_0256"
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "recent_topics": [
+      "consent-and-privacy",
+      "creative-testing"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0033",
+      "item_0056",
+      "item_0141",
+      "item_0187",
+      "item_0246",
+      "item_0253"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "recent_topics": [
+      "rcs-messaging",
+      "audience-segmentation",
+      "consent-and-privacy",
+      "mobile-commerce"
+    ],
+    "target_stage": "consideration",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0000",
+      "item_0008",
+      "item_0026",
+      "item_0125",
+      "item_0147",
+      "item_0151",
+      "item_0185",
+      "item_0191",
+      "item_0236",
+      "item_0292",
+      "item_0297"
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "recent_topics": [
+      "loyalty-programs",
+      "attribution",
+      "mobile-commerce",
+      "consent-and-privacy"
+    ],
+    "target_stage": "awareness",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0015",
+      "item_0035",
+      "item_0049",
+      "item_0057",
+      "item_0060",
+      "item_0073",
+      "item_0112",
+      "item_0119",
+      "item_0123",
+      "item_0205",
+      "item_0213",
+      "item_0225"
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "recent_topics": [
+      "loyalty-programs",
+      "lifecycle-automation",
+      "subscription-retention",
+      "rcs-messaging"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0134",
+      "item_0158",
+      "item_0179",
+      "item_0198",
+      "item_0214",
+      "item_0229",
+      "item_0256",
+      "item_0278",
+      "item_0293"
+    ]
+  },
+  {
+    "user_id": "user_011",
+    "recent_topics": [
+      "sms-marketing",
+      "winback-campaigns",
+      "subscription-retention",
+      "consent-and-privacy"
+    ],
+    "target_stage": "awareness",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0018",
+      "item_0029",
+      "item_0057",
+      "item_0060",
+      "item_0088",
+      "item_0097",
+      "item_0102",
+      "item_0108",
+      "item_0123",
+      "item_0139",
+      "item_0143",
+      "item_0152",
+      "item_0161",
+      "item_0202",
+      "item_0243",
+      "item_0245",
+      "item_0267",
+      "item_0296"
+    ]
+  },
+  {
+    "user_id": "user_012",
+    "recent_topics": [
+      "subscription-retention",
+      "mobile-commerce",
+      "winback-campaigns",
+      "ai-personalization"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0023",
+      "item_0053",
+      "item_0059",
+      "item_0138",
+      "item_0153",
+      "item_0207",
+      "item_0221",
+      "item_0228",
+      "item_0230",
+      "item_0247",
+      "item_0257",
+      "item_0264"
+    ]
+  },
+  {
+    "user_id": "user_013",
+    "recent_topics": [
+      "first-party-data",
+      "sms-marketing",
+      "loyalty-programs"
+    ],
+    "target_stage": "awareness",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0011",
+      "item_0035",
+      "item_0049",
+      "item_0067",
+      "item_0088",
+      "item_0108",
+      "item_0112",
+      "item_0224",
+      "item_0238",
+      "item_0263"
+    ]
+  },
+  {
+    "user_id": "user_014",
+    "recent_topics": [
+      "post-purchase-flows",
+      "winback-campaigns",
+      "email-deliverability",
+      "rcs-messaging"
+    ],
+    "target_stage": "decision",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0002",
+      "item_0024",
+      "item_0036",
+      "item_0065",
+      "item_0066",
+      "item_0074",
+      "item_0092",
+      "item_0154",
+      "item_0177",
+      "item_0181",
+      "item_0192",
+      "item_0235",
+      "item_0244",
+      "item_0265",
+      "item_0274",
+      "item_0289"
+    ]
+  },
+  {
+    "user_id": "user_015",
+    "recent_topics": [
+      "audience-segmentation",
+      "winback-campaigns",
+      "post-purchase-flows",
+      "first-party-data"
+    ],
+    "target_stage": "consideration",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0013",
+      "item_0019",
+      "item_0026",
+      "item_0047",
+      "item_0086",
+      "item_0186",
+      "item_0199",
+      "item_0201",
+      "item_0232"
+    ]
+  },
+  {
+    "user_id": "user_016",
+    "recent_topics": [
+      "audience-segmentation",
+      "first-party-data",
+      "rcs-messaging",
+      "sms-marketing"
+    ],
+    "target_stage": "awareness",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0001",
+      "item_0035",
+      "item_0049",
+      "item_0060",
+      "item_0102",
+      "item_0112",
+      "item_0119",
+      "item_0149",
+      "item_0164",
+      "item_0213",
+      "item_0217",
+      "item_0224",
+      "item_0225",
+      "item_0263",
+      "item_0280"
+    ]
+  },
+  {
+    "user_id": "user_017",
+    "recent_topics": [
+      "rcs-messaging",
+      "attribution",
+      "post-purchase-flows"
+    ],
+    "target_stage": "awareness",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0034",
+      "item_0060",
+      "item_0087",
+      "item_0088",
+      "item_0119",
+      "item_0149",
+      "item_0159",
+      "item_0165",
+      "item_0166",
+      "item_0172",
+      "item_0178",
+      "item_0202",
+      "item_0206",
+      "item_0217",
+      "item_0251",
+      "item_0259",
+      "item_0262",
+      "item_0273",
+      "item_0280",
+      "item_0295"
+    ]
+  },
+  {
+    "user_id": "user_018",
+    "recent_topics": [
+      "winback-campaigns",
+      "mobile-commerce"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0006",
+      "item_0012",
+      "item_0044",
+      "item_0053",
+      "item_0110",
+      "item_0173",
+      "item_0174",
+      "item_0183",
+      "item_0184",
+      "item_0257",
+      "item_0294"
+    ]
+  },
+  {
+    "user_id": "user_019",
+    "recent_topics": [
+      "lifecycle-automation",
+      "post-purchase-flows"
+    ],
+    "target_stage": "decision",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0106",
+      "item_0211",
+      "item_0274"
+    ]
+  },
+  {
+    "user_id": "user_020",
+    "recent_topics": [
+      "lifecycle-automation",
+      "first-party-data"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0045",
+      "item_0083",
+      "item_0153",
+      "item_0168",
+      "item_0175",
+      "item_0203"
+    ]
+  },
+  {
+    "user_id": "user_021",
+    "recent_topics": [
+      "subscription-retention",
+      "email-deliverability",
+      "loyalty-programs",
+      "consent-and-privacy"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0012",
+      "item_0038",
+      "item_0077",
+      "item_0083",
+      "item_0110",
+      "item_0134",
+      "item_0174",
+      "item_0183",
+      "item_0184",
+      "item_0194",
+      "item_0229",
+      "item_0256",
+      "item_0271",
+      "item_0279",
+      "item_0290"
+    ]
+  },
+  {
+    "user_id": "user_022",
+    "recent_topics": [
+      "post-purchase-flows",
+      "rcs-messaging"
+    ],
+    "target_stage": "consideration",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0047",
+      "item_0199",
+      "item_0220",
+      "item_0248"
+    ]
+  },
+  {
+    "user_id": "user_023",
+    "recent_topics": [
+      "consent-and-privacy",
+      "rcs-messaging",
+      "audience-segmentation",
+      "subscription-retention"
+    ],
+    "target_stage": "awareness",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0001",
+      "item_0003",
+      "item_0011",
+      "item_0018",
+      "item_0057",
+      "item_0088",
+      "item_0097",
+      "item_0101",
+      "item_0108",
+      "item_0159",
+      "item_0161",
+      "item_0164",
+      "item_0178",
+      "item_0204",
+      "item_0209",
+      "item_0225",
+      "item_0243",
+      "item_0296"
+    ]
+  },
+  {
+    "user_id": "user_024",
+    "recent_topics": [
+      "audience-segmentation",
+      "loyalty-programs",
+      "first-party-data"
+    ],
+    "target_stage": "decision",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0080",
+      "item_0114",
+      "item_0160"
+    ]
+  },
+  {
+    "user_id": "user_025",
+    "recent_topics": [
+      "attribution",
+      "audience-segmentation"
+    ],
+    "target_stage": "consideration",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0042",
+      "item_0199",
+      "item_0240",
+      "item_0297"
+    ]
+  },
+  {
+    "user_id": "user_026",
+    "recent_topics": [
+      "audience-segmentation",
+      "mobile-commerce",
+      "winback-campaigns"
+    ],
+    "target_stage": "consideration",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0004",
+      "item_0040",
+      "item_0043",
+      "item_0126",
+      "item_0140",
+      "item_0171",
+      "item_0277",
+      "item_0288",
+      "item_0299"
+    ]
+  },
+  {
+    "user_id": "user_027",
+    "recent_topics": [
+      "mobile-commerce",
+      "creative-testing",
+      "subscription-retention"
+    ],
+    "target_stage": "decision",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0007",
+      "item_0031",
+      "item_0104",
+      "item_0137",
+      "item_0176",
+      "item_0223",
+      "item_0244",
+      "item_0265",
+      "item_0270"
+    ]
+  },
+  {
+    "user_id": "user_028",
+    "recent_topics": [
+      "rcs-messaging",
+      "mobile-commerce",
+      "consent-and-privacy"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0033",
+      "item_0059",
+      "item_0078",
+      "item_0184",
+      "item_0196",
+      "item_0228",
+      "item_0246"
+    ]
+  },
+  {
+    "user_id": "user_029",
+    "recent_topics": [
+      "subscription-retention",
+      "first-party-data"
+    ],
+    "target_stage": "consideration",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0028",
+      "item_0145",
+      "item_0162",
+      "item_0215",
+      "item_0299"
+    ]
+  },
+  {
+    "user_id": "user_030",
+    "recent_topics": [
+      "winback-campaigns",
+      "subscription-retention"
+    ],
+    "target_stage": "awareness",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0029",
+      "item_0057",
+      "item_0097",
+      "item_0108",
+      "item_0123",
+      "item_0139",
+      "item_0143",
+      "item_0161",
+      "item_0243",
+      "item_0267"
+    ]
+  },
+  {
+    "user_id": "user_031",
+    "recent_topics": [
+      "audience-segmentation",
+      "creative-testing"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0055",
+      "item_0056",
+      "item_0189",
+      "item_0229",
+      "item_0253"
+    ]
+  },
+  {
+    "user_id": "user_032",
+    "recent_topics": [
+      "rcs-messaging",
+      "ai-personalization",
+      "subscription-retention",
+      "attribution"
+    ],
+    "target_stage": "consideration",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0025",
+      "item_0050",
+      "item_0086",
+      "item_0163",
+      "item_0199",
+      "item_0201",
+      "item_0232",
+      "item_0240",
+      "item_0292"
+    ]
+  },
+  {
+    "user_id": "user_033",
+    "recent_topics": [
+      "creative-testing",
+      "email-deliverability",
+      "rcs-messaging"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0056",
+      "item_0078",
+      "item_0085",
+      "item_0124",
+      "item_0141",
+      "item_0184",
+      "item_0187",
+      "item_0214",
+      "item_0253"
+    ]
+  },
+  {
+    "user_id": "user_034",
+    "recent_topics": [
+      "subscription-retention",
+      "ai-personalization"
+    ],
+    "target_stage": "awareness",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0003",
+      "item_0109",
+      "item_0133",
+      "item_0165"
+    ]
+  },
+  {
+    "user_id": "user_035",
+    "recent_topics": [
+      "ai-personalization",
+      "winback-campaigns",
+      "consent-and-privacy",
+      "creative-testing"
+    ],
+    "target_stage": "decision",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0092",
+      "item_0114",
+      "item_0136",
+      "item_0148",
+      "item_0188",
+      "item_0210",
+      "item_0219",
+      "item_0268",
+      "item_0289"
+    ]
+  },
+  {
+    "user_id": "user_036",
+    "recent_topics": [
+      "audience-segmentation",
+      "first-party-data",
+      "email-deliverability"
+    ],
+    "target_stage": "consideration",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0013",
+      "item_0019",
+      "item_0021",
+      "item_0113",
+      "item_0186",
+      "item_0199",
+      "item_0227",
+      "item_0232",
+      "item_0283"
+    ]
+  },
+  {
+    "user_id": "user_037",
+    "recent_topics": [
+      "lifecycle-automation",
+      "first-party-data"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0006",
+      "item_0012",
+      "item_0056",
+      "item_0083",
+      "item_0134",
+      "item_0153",
+      "item_0168",
+      "item_0189",
+      "item_0208",
+      "item_0253",
+      "item_0290"
+    ]
+  },
+  {
+    "user_id": "user_038",
+    "recent_topics": [
+      "creative-testing",
+      "consent-and-privacy"
+    ],
+    "target_stage": "awareness",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0001",
+      "item_0034",
+      "item_0035",
+      "item_0067",
+      "item_0088",
+      "item_0115",
+      "item_0118",
+      "item_0224",
+      "item_0238",
+      "item_0296"
+    ]
+  },
+  {
+    "user_id": "user_039",
+    "recent_topics": [
+      "sms-marketing",
+      "creative-testing",
+      "rcs-messaging",
+      "lifecycle-automation"
+    ],
+    "target_stage": "decision",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0002",
+      "item_0009",
+      "item_0066",
+      "item_0069",
+      "item_0074",
+      "item_0092",
+      "item_0177",
+      "item_0192",
+      "item_0234",
+      "item_0244",
+      "item_0289"
+    ]
+  },
+  {
+    "user_id": "user_040",
+    "recent_topics": [
+      "audience-segmentation",
+      "loyalty-programs"
+    ],
+    "target_stage": "consideration",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0000",
+      "item_0025",
+      "item_0145",
+      "item_0162",
+      "item_0261",
+      "item_0283"
+    ]
+  },
+  {
+    "user_id": "user_041",
+    "recent_topics": [
+      "email-deliverability",
+      "consent-and-privacy",
+      "winback-campaigns"
+    ],
+    "target_stage": "consideration",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0043",
+      "item_0063",
+      "item_0113",
+      "item_0151",
+      "item_0157",
+      "item_0162",
+      "item_0191",
+      "item_0199",
+      "item_0220"
+    ]
+  },
+  {
+    "user_id": "user_042",
+    "recent_topics": [
+      "audience-segmentation",
+      "mobile-commerce",
+      "post-purchase-flows",
+      "consent-and-privacy"
+    ],
+    "target_stage": "consideration",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0004",
+      "item_0040",
+      "item_0126",
+      "item_0299"
+    ]
+  },
+  {
+    "user_id": "user_043",
+    "recent_topics": [
+      "rcs-messaging",
+      "loyalty-programs"
+    ],
+    "target_stage": "decision",
+    "persona": "growth_lead",
+    "relevant_item_ids": [
+      "item_0074",
+      "item_0114",
+      "item_0244"
+    ]
+  },
+  {
+    "user_id": "user_044",
+    "recent_topics": [
+      "winback-campaigns",
+      "mobile-commerce",
+      "loyalty-programs"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "marketing_ops",
+    "relevant_item_ids": [
+      "item_0014",
+      "item_0037",
+      "item_0083",
+      "item_0138",
+      "item_0173",
+      "item_0174",
+      "item_0184",
+      "item_0222",
+      "item_0228",
+      "item_0230"
+    ]
+  },
+  {
+    "user_id": "user_045",
+    "recent_topics": [
+      "consent-and-privacy",
+      "subscription-retention"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "lifecycle_marketer",
+    "relevant_item_ids": [
+      "item_0017",
+      "item_0030",
+      "item_0033",
+      "item_0077",
+      "item_0107",
+      "item_0122",
+      "item_0193",
+      "item_0229",
+      "item_0256"
+    ]
+  },
+  {
+    "user_id": "user_046",
+    "recent_topics": [
+      "consent-and-privacy",
+      "email-deliverability",
+      "winback-campaigns"
+    ],
+    "target_stage": "consideration",
+    "persona": "ecommerce_director",
+    "relevant_item_ids": [
+      "item_0021",
+      "item_0026",
+      "item_0063",
+      "item_0086",
+      "item_0113",
+      "item_0186",
+      "item_0199",
+      "item_0201",
+      "item_0227",
+      "item_0283"
+    ]
+  },
+  {
+    "user_id": "user_047",
+    "recent_topics": [
+      "winback-campaigns",
+      "ai-personalization",
+      "first-party-data"
+    ],
+    "target_stage": "awareness",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0003",
+      "item_0011",
+      "item_0018",
+      "item_0029",
+      "item_0060",
+      "item_0097",
+      "item_0123",
+      "item_0139",
+      "item_0143",
+      "item_0161",
+      "item_0190",
+      "item_0213",
+      "item_0245",
+      "item_0267"
+    ]
+  },
+  {
+    "user_id": "user_048",
+    "recent_topics": [
+      "sms-marketing",
+      "consent-and-privacy",
+      "loyalty-programs",
+      "rcs-messaging"
+    ],
+    "target_stage": "decision",
+    "persona": "agency_partner",
+    "relevant_item_ids": [
+      "item_0039",
+      "item_0114",
+      "item_0129",
+      "item_0135",
+      "item_0192",
+      "item_0210",
+      "item_0218",
+      "item_0234",
+      "item_0241",
+      "item_0270",
+      "item_0276"
+    ]
+  },
+  {
+    "user_id": "user_049",
+    "recent_topics": [
+      "email-deliverability",
+      "attribution",
+      "post-purchase-flows"
+    ],
+    "target_stage": "post_purchase",
+    "persona": "rev_ops",
+    "relevant_item_ids": [
+      "item_0051",
+      "item_0055",
+      "item_0077",
+      "item_0098",
+      "item_0173",
+      "item_0174",
+      "item_0250",
+      "item_0256"
+    ]
+  }
+]
